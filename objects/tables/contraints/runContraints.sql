@@ -25,3 +25,21 @@ PROMPT******************** add constrains_pk_Projet*****************************
 
 PROMPT******************** add constrains_pk_SocialNetwork*************************************
 @objects/tables/contraints/pk/pk_SocialNetwork
+
+
+
+
+PROMPT################################################################################
+PROMPT******************** ajout des cles etrangeres**********************************
+PROMPT################################################################################
+
+PROMPT******************** add constrains_fk_Hobbies*************************************
+@objects/tables/contraints/pk/pk_Hobbies
+
+
+PROMPT******************** add constrains_fk_Projet*************************************
+@objects/tables/contraints/fk/fk_Projet
+
+
+PROMPT******************** add constrains_fk_SocialNetwork*************************************
+@objects/tables/contraints/fk/fk_SocialNetwork
