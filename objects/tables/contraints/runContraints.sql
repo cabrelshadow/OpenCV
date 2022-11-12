@@ -36,14 +36,21 @@ PROMPT******************** add constrains_pk_experience*************************
 PROMPT******************** add constrains_pk_experiencePro*************************************
 @objects/tables/contraints/pk/pk_experiencePro
 
+
 PROMPT******************** add constrains_pk_phones*************************************
 @objects/tables/contraints/pk/pk_Phones
+=======
+PROMPT******************** add constrains_pk_Profil*************************************
+@objects/tables/contraints/pk/pk_Profil
+
+PROMPT******************** add constrains_pk_Country*************************************
+@objects/tables/contraints/pk/pk_Country
 
 PROMPT******************** add constrains_pk_Competence*************************************
-@objects/tables/contraints/pk/pk_Competence
+@objects/tables/contraints/pk/pk_Competence 
 
 PROMPT******************** add constrains_pk_Recommandation*************************************
-@objects/tables/contraints/pk/pk_Recommandation 
+@objects/tables/contraints/pk/pk_Recommandation  
 
 
 PROMPT################################################################################
@@ -71,6 +78,7 @@ PROMPT******************** add constrains_fk_Projet*****************************
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
 
+<<<<<<< HEAD
 
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_Phones
@@ -80,3 +88,10 @@ PROMPT******************** add constrains_fk_Competence*************************
 
 PROMPT******************** add constrains_fk_Recommandation*************************************
 @objects/tables/contraints/fk/fk_Recommandation 
+=======
+PROMPT******************** add constrains_fk_Profil*************************************
+@objects/tables/contraints/fk/fk_Profil
+
+PROMPT******************** add constrains_fk_Country*************************************
+@objects/tables/contraints/fk/fk_Country
+>>>>>>> cebb0663c2748822e5f99197a2984b544466d63e

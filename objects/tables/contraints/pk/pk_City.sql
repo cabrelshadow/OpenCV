@@ -1,2 +1,0 @@
-ALTER TABLE City
-ADD CONSTRAINT pk_city_id PRIMARY KEY(id_city);
