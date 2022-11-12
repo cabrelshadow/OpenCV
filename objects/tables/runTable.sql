@@ -44,5 +44,5 @@ PROMPT******************** create table Professional_Exp........................
 
 
 PROMPT******************** create table Formation............................................................................********************************************
-@objects/tables/table_formation
+@objects/tables/table_formations
 

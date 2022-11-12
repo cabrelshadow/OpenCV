@@ -1,2 +1,2 @@
 ALTER TABLE Profil
-ADD CONSTRAINT pk_Profil_id PRIMARY KEY(id_profil);
+ADD CONSTRAINT pk__id_profil PRIMARY KEY(id_profil);

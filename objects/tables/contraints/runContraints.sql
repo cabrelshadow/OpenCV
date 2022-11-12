@@ -6,6 +6,8 @@ PROMPT##########################################################################
 PROMPT******************** add constrains_pk_user*************************************
 @objects/tables/contraints/pk/pk_user
 
+PROMPT******************** add constrains_pk_profil*************************************
+@objects/tables/contraints/pk/pk_Profil
 
 PROMPT******************** add constrains_pk_language*************************************
 @objects/tables/contraints/pk/pk_language
@@ -49,16 +51,20 @@ PROMPT******************** add constrains_pk_formation**************************
 PROMPT******************** add constrains_pk_experience*************************************
 @objects/tables/contraints/fk/fk_experience
 
+
+PROMPT******************** add constrains_fk_Projet*************************************
+@objects/tables/contraints/fk/fk_Projet
+
 PROMPT******************** add constrains_pk_experiencePro*************************************
 @objects/tables/contraints/fk/fk_experiencePro
+
 
 
 PROMPT******************** add constrains_fk_Hobbies*************************************
 @objects/tables/contraints/fk/fk_Hobbies
 
 
-PROMPT******************** add constrains_fk_Projet*************************************
-@objects/tables/contraints/fk/fk_Projet
+
 
 
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
