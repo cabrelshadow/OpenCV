@@ -42,8 +42,6 @@ PROMPT******************** add constrains_pk_experiencePro**********************
 PROMPT******************** add constrains_pk_phones*************************************
 @objects/tables/contraints/pk/pk_Phones
 
-PROMPT******************** add constrains_pk_Profil*************************************
-@objects/tables/contraints/pk/pk_Profil
 
 PROMPT******************** add constrains_pk_Country*************************************
 @objects/tables/contraints/pk/pk_Country
