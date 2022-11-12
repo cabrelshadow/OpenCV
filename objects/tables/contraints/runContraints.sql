@@ -39,7 +39,11 @@ PROMPT******************** add constrains_pk_experiencePro**********************
 PROMPT******************** add constrains_pk_phones*************************************
 @objects/tables/contraints/pk/pk_Phones
 
+PROMPT******************** add constrains_pk_Competence*************************************
+@objects/tables/contraints/pk/pk_Competence
 
+PROMPT******************** add constrains_pk_Recommandation*************************************
+@objects/tables/contraints/pk/pk_Recommandation 
 
 
 PROMPT################################################################################
@@ -71,3 +75,8 @@ PROMPT******************** add constrains_fk_SocialNetwork**********************
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_Phones
 
+PROMPT******************** add constrains_fk_Competence*************************************
+@objects/tables/contraints/fk/fk_Competence
+
+PROMPT******************** add constrains_fk_Recommandation*************************************
+@objects/tables/contraints/fk/fk_Recommandation 
