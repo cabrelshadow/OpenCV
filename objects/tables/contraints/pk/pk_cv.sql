@@ -1,0 +1,2 @@
+ALTER TABLE Cv 
+ADD CONSTRAINT pk_id_cv PRIMARY KEY(id_cv);
