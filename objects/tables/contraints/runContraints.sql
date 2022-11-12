@@ -36,6 +36,11 @@ PROMPT******************** add constrains_pk_experience*************************
 PROMPT******************** add constrains_pk_experiencePro*************************************
 @objects/tables/contraints/pk/pk_experiencePro
 
+PROMPT******************** add constrains_pk_Profil*************************************
+@objects/tables/contraints/pk/pk_Profil
+
+PROMPT******************** add constrains_pk_Country*************************************
+@objects/tables/contraints/pk/pk_Country
 
 
 
@@ -63,3 +68,9 @@ PROMPT******************** add constrains_fk_Projet*****************************
 
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
+
+PROMPT******************** add constrains_fk_Profil*************************************
+@objects/tables/contraints/fk/fk_Profil
+
+PROMPT******************** add constrains_fk_Country*************************************
+@objects/tables/contraints/fk/fk_Country
