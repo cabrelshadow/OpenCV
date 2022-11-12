@@ -36,6 +36,9 @@ PROMPT******************** add constrains_pk_experience*************************
 PROMPT******************** add constrains_pk_experiencePro*************************************
 @objects/tables/contraints/pk/pk_experiencePro
 
+PROMPT******************** add constrains_pk_phones*************************************
+@objects/tables/contraints/pk/pk_Phones
+
 
 
 
@@ -63,3 +66,8 @@ PROMPT******************** add constrains_fk_Projet*****************************
 
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
+
+
+PROMPT******************** add constrains_fk_SocialNetwork*************************************
+@objects/tables/contraints/fk/fk_Phones
+
