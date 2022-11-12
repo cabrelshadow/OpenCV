@@ -1,10 +1,10 @@
 create table Phones 
 (
-    id_socialnet int ,
-    phoneNumber int ,
-    IsMobile varchar (50),
-    IsWhatsapp varchar(50),
-    IsTelegram varchar(50),
-    countryCode varchar(50),
-    id_profil int 
+    id_phone int not null ,
+    phoneNumber int not  null ,
+    IsMobile varchar (50) not null,
+    IsWhatsapp varchar(50) not null,
+    IsTelegram varchar(50) not null,
+    countryCode varchar(50) not null,
+    id_profil int not null
 );

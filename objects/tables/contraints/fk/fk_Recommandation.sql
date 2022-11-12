@@ -5,4 +5,4 @@
 --
 ALTER TABLE Recommandation
 ADD
-CONSTRAINT fk_id_cv FOREIGN KEY(id_cv) REFERENCES Cv (id_cv);
+CONSTRAINT fk_user_id FOREIGN KEY(id_user) REFERENCES users(id_user);

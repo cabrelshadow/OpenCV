@@ -41,7 +41,7 @@ PROMPT******************** add constrains_pk_experiencePro**********************
 
 PROMPT******************** add constrains_pk_phones*************************************
 @objects/tables/contraints/pk/pk_Phones
-=======
+
 PROMPT******************** add constrains_pk_Profil*************************************
 @objects/tables/contraints/pk/pk_Profil
 
@@ -58,6 +58,9 @@ PROMPT******************** add constrains_pk_Recommandation*********************
 PROMPT################################################################################
 PROMPT******************** ajout des cles etrangeres**********************************
 PROMPT################################################################################
+
+PROMPT******************** add constrains_fk_Profil*************************************
+@objects/tables/contraints/fk/fk_Profil
 
 PROMPT******************** add constrains_pk_formation*************************************
 @objects/tables/contraints/fk/fk_formation
@@ -84,20 +87,17 @@ PROMPT******************** add constrains_fk_Hobbies****************************
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
 
-<<<<<<< HEAD
 
-PROMPT******************** add constrains_fk_SocialNetwork*************************************
+PROMPT******************** add constrains_fk_phone*************************************
 @objects/tables/contraints/fk/fk_Phones
+
+PROMPT******************** add constrains_fk_Recommandation*************************************
+@objects/tables/contraints/fk/fk_Recommandation 
 
 PROMPT******************** add constrains_fk_Competence*************************************
 @objects/tables/contraints/fk/fk_Competence
 
-PROMPT******************** add constrains_fk_Recommandation*************************************
-@objects/tables/contraints/fk/fk_Recommandation 
-=======
-PROMPT******************** add constrains_fk_Profil*************************************
-@objects/tables/contraints/fk/fk_Profil
+
 
 PROMPT******************** add constrains_fk_Country*************************************
 @objects/tables/contraints/fk/fk_Country
->>>>>>> cebb0663c2748822e5f99197a2984b544466d63e
