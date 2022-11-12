@@ -26,6 +26,7 @@ PROMPT******************** add constrains_pk_Projet*****************************
 PROMPT******************** add constrains_pk_SocialNetwork*************************************
 @objects/tables/contraints/pk/pk_SocialNetwork
 
+<<<<<<< HEAD
 
 
 
@@ -43,3 +44,13 @@ PROMPT******************** add constrains_fk_Projet*****************************
 
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
+=======
+PROMPT******************** add constrains_pk_Profil*************************************
+@objects/tables/contraints/pk/pk_Profil
+
+PROMPT******************** add constrains_pk_City*************************************
+@objects/tables/contraints/pk/pk_City
+
+PROMPT******************** add constrains_pk_Country*************************************
+@objects/tables/contraints/pk/pk_Country
+>>>>>>> f8b46e58db6e0d5895e25dc8d272aad38e0d1e3a
