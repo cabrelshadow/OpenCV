@@ -10,5 +10,12 @@ PROMPT******************** create user *****************************************
 PROMPT******************** create table user************************************
 @objects/tables/runTable
 
-
+PROMPT******************** insering data in table user************************************
 @objects/tables/contraints/runContraints
+
+PROMPT******************** insering data in table user************************************
+@data/runData
+
+SPOOL OFF
+
+SELECT table_name FROM user_tables; 
