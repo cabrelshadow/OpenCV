@@ -14,11 +14,21 @@ PROMPT******************** add data Profil*************************************
 PROMPT******************** add data Country*************************************
 @data/data_country
 
-PROMPT******************** add data Formation*************************************
-@data/data_formation
-
 PROMPT******************** add data Experience*************************************
 @data/data_experience
 
 PROMPT******************** add data Professional_Exp*************************************
 @data/data_experiencePro
+
+PROMPT******************** add data Formation*************************************
+@data/data_formation
+
+
+PROMPT******************** add data HOBBIES*************************************
+@data/data_hobbies
+
+PROMPT******************** add data PROJET*************************************
+@data/data_projet
+
+PROMPT******************** add data SOCIALNETWORK*************************************
+@data/data_socialnetwork

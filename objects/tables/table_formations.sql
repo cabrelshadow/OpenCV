@@ -8,7 +8,7 @@
     startDate DATE NOT NULL,
     endDate DATE NOT NULL,
     obtenedResult varchar(50) NOT NULL,
-    descriptionForm varchar(100) NOT NULL,
+    descriptionForm varchar(150) NOT NULL,
     id_user INT NOT NULL,
     id_exp INT NOT NULL,
     id_cv INT NOT NULL

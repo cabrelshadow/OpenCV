@@ -5,7 +5,7 @@ CREATE TABLE projet(
     projet_status VARCHAR (70) NOT NULL,
     startdate DATE,
     enddate DATE,
-    partner VARCHAR (30) NOT NULL,
+    partners VARCHAR (30) NOT NULL,
     urlprojet VARCHAR (30) NOT NULL,
     description_projet VARCHAR (30) NOT NULL,
     id_formation INT NOT NULL,

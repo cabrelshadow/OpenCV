@@ -57,8 +57,16 @@ PROMPT##########################################################################
 PROMPT******************** ajout des cles etrangeres**********************************
 PROMPT################################################################################
 
+PROMPT******************** add constrains_fk_phone*************************************
+@objects/tables/contraints/fk/fk_Phones
+
 PROMPT******************** add constrains_fk_Profil*************************************
 @objects/tables/contraints/fk/fk_Profil
+
+PROMPT******************** add constrains_fk_Country*************************************
+@objects/tables/contraints/fk/fk_Country
+
+
 
 PROMPT******************** add constrains_pk_formation*************************************
 @objects/tables/contraints/fk/fk_formation
@@ -80,14 +88,9 @@ PROMPT******************** add constrains_fk_Hobbies****************************
 
 
 
-
-
 PROMPT******************** add constrains_fk_SocialNetwork*************************************
 @objects/tables/contraints/fk/fk_SocialNetwork
 
-
-PROMPT******************** add constrains_fk_phone*************************************
-@objects/tables/contraints/fk/fk_Phones
 
 PROMPT******************** add constrains_fk_Recommandation*************************************
 @objects/tables/contraints/fk/fk_Recommandation 
@@ -97,5 +100,3 @@ PROMPT******************** add constrains_fk_Competence*************************
 
 
 
-PROMPT******************** add constrains_fk_Country*************************************
-@objects/tables/contraints/fk/fk_Country
