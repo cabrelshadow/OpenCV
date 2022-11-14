@@ -22,3 +22,15 @@ increment by 1;
 create sequence sec_socialnetwork
 start with 100
 increment by 1;
+------ sequence table experience---
+create sequence sec_experience
+start with 100
+increment by 1;
+------ sequence table experience professionnelle---
+create sequence sec_professional_exp
+start with 100
+increment by 1;
+------ sequence table formation---
+create sequence sec_formation
+start with 100
+increment by 1;
