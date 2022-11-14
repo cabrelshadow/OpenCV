@@ -10,3 +10,7 @@ increment by 1;
 create sequence sec_user
 start with 100
 increment by 1;
+------sequence table Phones ------
+create sequence sec_phones 
+start with 100
+increment by 1;
