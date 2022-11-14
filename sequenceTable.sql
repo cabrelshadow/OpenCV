@@ -22,3 +22,7 @@ increment by 1;
 create sequence sec_socialnetwork
 start with 100
 increment by 1;
+------ sequence table profil---
+create sequence sec_profil
+start with 100
+increment by 1;
