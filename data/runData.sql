@@ -32,3 +32,6 @@ PROMPT******************** add data PROJET*************************************
 
 PROMPT******************** add data SOCIALNETWORK*************************************
 @data/data_socialnetwork
+
+PROMPT******************** add data phones*************************************
+@data/data_phones
