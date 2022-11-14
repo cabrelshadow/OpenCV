@@ -18,6 +18,4 @@ INSERT INTO Formation(id_formation,school,fieldOfStudy,diploma,startDate,endDate
 VALUES(9,'Institut des Beaux Arts','Architecture','DAB',TO_DATE('08/10/2015','DD/MM/YYYY'),TO_DATE('10/07/2020','DD/MM/YYYY'),'Architecte du batiment','à la fin de cette formation je suis capable de concevoir les plans de tout types de batiments ',9,9,10);
 INSERT INTO Formation(id_formation,school,fieldOfStudy,diploma,startDate,endDate,obtenedResult,descriptionForm,id_user,id_exp,id_cv)
 VALUES(10,'ENSTP','Topographie','BTS',TO_DATE('05/09/2010','DD/MM/YYYY'),TO_DATE('27/07/2012','DD/MM/YYYY'),'Technicien en topographie','à la fin de cette formation je suis capable de faire des levés topographiques',10,10,9);
-
-
-                                  ---- BY Yvan Njopmo -----
+ ---- BY Yvan Njopmo -----
