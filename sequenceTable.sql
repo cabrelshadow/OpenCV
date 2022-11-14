@@ -43,3 +43,13 @@ increment by 1;
 create sequence sec_phones 
 start with 100
 increment by 1;
+
+------sequence table competence ------
+create sequence sec_competence
+start with 100
+increment by 1;
+
+------sequence table recommandation ------
+create sequence sec_recommandation 
+start with 100
+increment by 1;
