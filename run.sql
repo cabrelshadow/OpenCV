@@ -13,9 +13,11 @@ PROMPT******************** create table user************************************
 PROMPT******************** insering data in table user************************************
 @objects/tables/contraints/runContraints
 
+PROMPT********************* create SEQUENCES FOR TABLE **************************************
+@sequenceTable
 PROMPT******************** insering data in table user************************************
-@data/runData
-
+--@data/runData
+--@Feature/user/add_user
 SPOOL OFF
 
 SELECT table_name FROM user_tables; 
