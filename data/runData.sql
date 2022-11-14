@@ -11,6 +11,10 @@ PROMPT******************** add data cv*************************************
 PROMPT******************** add data Profil*************************************
 @data/data_profil
 
+PROMPT******************** add data languages*************************************
+@data/data_language
+
+
 PROMPT******************** add data Country*************************************
 @data/data_country
 
