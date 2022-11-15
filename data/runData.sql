@@ -39,3 +39,9 @@ PROMPT******************** add data SOCIALNETWORK*******************************
 
 PROMPT******************** add data phones*************************************
 @data/data_phones
+
+PROMPT******************** add data Competence*************************************
+@data/data_competence
+
+PROMPT******************** add data Recommendation*************************************
+@data/data_recommandation
