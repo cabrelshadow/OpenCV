@@ -18,6 +18,7 @@ PROMPT********************* create SEQUENCES FOR TABLE *************************
 PROMPT******************** insering data in table user************************************
 --@data/runData
 --@Feature/user/add_user
+
 SPOOL OFF
 
 SELECT table_name FROM user_tables; 

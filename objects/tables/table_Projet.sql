@@ -1,15 +1,15 @@
 ---création de la table projet
 CREATE TABLE projet(
-    id_projet INT NOT NULL,
-    projet_name VARCHAR (70) NOT NULL,
-    projet_status VARCHAR (70) NOT NULL,
+    id_projet INT ,
+    projet_name VARCHAR (70),
+    projet_status VARCHAR (70),
     startdate DATE,
     enddate DATE,
-    partners VARCHAR (30) NOT NULL,
-    urlprojet VARCHAR (30) NOT NULL,
-    description_projet VARCHAR (30) NOT NULL,
-    id_formation INT NOT NULL,
-    id_exp INT NOT NULL,
-    id_expro INT NOT NULL
+    partners VARCHAR (30),
+    urlprojet VARCHAR (30),
+    description_projet VARCHAR (30),
+    id_formation INT,
+    id_exp INT,
+    id_expro INT
 );
 ---script fait NJAHA NATHAN
