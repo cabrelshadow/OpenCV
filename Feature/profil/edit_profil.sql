@@ -1,5 +1,5 @@
 UPDATE Profil 
-set id_profil = &new_id_profil AND
+set
 first_name = '&fisrt_name' AND
 last_name = '&last_name' AND
 profile_name = '&profile_name' AND
