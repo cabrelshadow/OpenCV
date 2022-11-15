@@ -22,7 +22,6 @@ increment by 1;
 create sequence sec_socialnetwork
 start with 100
 increment by 1;
-<<<<<<< HEAD
 ------ sequence table experience---
 create sequence sec_experience
 start with 100
@@ -33,10 +32,6 @@ start with 100
 increment by 1;
 ------ sequence table formation---
 create sequence sec_formation
-=======
------- sequence table profil---
-create sequence sec_profil
->>>>>>> 1a3aab0895071b379115c75c8dfc5b1ecb47dc15
 start with 100
 increment by 1;
 ------sequence table Phones ------
