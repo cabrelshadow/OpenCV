@@ -10,3 +10,6 @@ PROMPT*************** insert into  tables_profile********************
 
 PROMPT*************** create  languages********************
 @Feature/language/add_language
+
+PROMPT*************** create  Country********************
+@Feature/country/add_country
