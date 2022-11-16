@@ -6,3 +6,7 @@ PROMPT *******************************************************LOGIN*************
 SELECT * FROM users where username='&username' AND password='&passwors';
 PROMPT*************** insert into  tables_profile********************
 @Feature/profil/add_profil
+
+
+PROMPT*************** create  languages********************
+@Feature/language/add_language
