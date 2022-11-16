@@ -4,6 +4,6 @@
 
 --
 INSERT INTO Competence(id_Competence,name_competence,level_competence,id_recommandation,id_hobbies,id_formation,id_cv)
-VALUES('&id_Competence','&name_competence','&level_competence','&id_recommandation','&id_hobbies','id_formation','id_cv');
+VALUES(&id_Competence,'&name_competence','&level_competence',&id_recommandation,&id_hobbies,id_formation,id_cv);
 
 SELECT * FROM Competence;
