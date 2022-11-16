@@ -13,3 +13,6 @@ PROMPT*************** create  languages********************
 
 PROMPT*************** create  Country********************
 @Feature/country/add_country
+
+PROMPT*************** create  SocialNetwork********************
+@Feature/socialnetwork/add_socialnetwork
