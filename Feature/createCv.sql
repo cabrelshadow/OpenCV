@@ -25,3 +25,13 @@ PROMPT*************** create  Hobbies********************
 
 PROMPT*************** insert into  tables_phones********************
 @Feature/phones/add_phones
+
+
+PROMPT*************** insert into  Experience********************
+@Feature/experience/add_experience
+
+PROMPT*************** insert into  Professionnal_Exp********************
+@Feature/experiencePro/add_experiencePro
+
+PROMPT*************** insert into  Formation********************
+@Feature/formation/add_formation
