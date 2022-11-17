@@ -18,3 +18,6 @@ PROMPT*************** create  Country********************
 
 PROMPT*************** create  SocialNetwork********************
 @Feature/socialnetwork/add_socialnetwork
+
+PROMPT*************** create  Hobbies********************
+@Feature/socialnetwork/add_hobbies
