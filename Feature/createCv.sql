@@ -26,7 +26,6 @@ PROMPT*************** create  Hobbies********************
 PROMPT*************** insert into  tables_phones********************
 @Feature/phones/add_phones
 
-<<<<<<< HEAD
 PROMPT*************** insert into Recommandation********************
 @Feature/recommandation/add_recommandation
 
