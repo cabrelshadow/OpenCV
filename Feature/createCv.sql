@@ -19,5 +19,11 @@ PROMPT*************** create  Country********************
 PROMPT*************** create  SocialNetwork********************
 @Feature/socialnetwork/add_socialnetwork
 
+<<<<<<< HEAD
 PROMPT*************** create  Hobbies********************
 @Feature/socialnetwork/add_hobbies
+=======
+PROMPT*************** insert into  tables_phones********************
+@Feature/phones/add_phones
+
+>>>>>>> 5c5d6eeb4eaf48175ca6ef39046c8e73aaedc7d9
