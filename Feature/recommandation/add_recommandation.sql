@@ -6,4 +6,4 @@
 INSERT INTO Recommandation(id_recommandation,personneName,relationShipLevel,postAtTheTime,message,id_user)
 VALUES(&id_recommandation,'&personneName','&relationShipLevel','&postAtTheTime','&message',&id_user);
 
-SELECT * FROM Recommandation;
+SELECT * FROM Recommandation WHERE id_user=&id_user;
