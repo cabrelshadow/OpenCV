@@ -16,9 +16,34 @@ PROMPT*************** create  languages********************
 PROMPT*************** create  Country********************
 @Feature/country/add_country
 
+
 PROMPT*************** create  SocialNetwork********************
 @Feature/socialnetwork/add_socialnetwork
 
+PROMPT*************** create  Hobbies********************
+@Feature/socialnetwork/add_hobbies
+
 PROMPT*************** insert into  tables_phones********************
 @Feature/phones/add_phones
+
+PROMPT*************** insert into  Formation********************
+@Feature/formation/add_formation
+
+PROMPT*************** insert into Competence********************
+@Feature/competence/add_competence
+
+PROMPT*************** insert into Recommandation********************
+@Feature/recommandation/add_recommandation
+
+PROMPT*************** insert into Competence********************
+@Feature/competence/add_competence
+
+
+PROMPT*************** insert into  Experience********************
+@Feature/experience/add_experience
+
+PROMPT*************** insert into  Professionnal_Exp********************
+@Feature/experiencePro/add_experiencePro
+
+
 
