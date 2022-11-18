@@ -1,9 +1,9 @@
 -- by Nguenou --
 UPDATE Phones
-SET phoneNumber=&phoneNumber AND
-IsMobile='&IsMobile' AND
-IsWhatsapp='&IsWhatsapp' AND
-IsTelegram='&IsTelegram' AND
+SET phoneNumber=&phoneNumber,
+IsMobile='&IsMobile',
+IsWhatsapp='&IsWhatsapp',
+IsTelegram='&IsTelegram' ,
 countryCode=&countryCode 
 WHERE id_phone=&id_phone;
 
