@@ -1,10 +1,10 @@
 
 UPDATE Professional_Exp
-SET status = '&status' AND
- organisation = '&organisation' AND
- function = '&function' AND
- startDate = '&startDate' AND
- endDate = '&endDate' AND
+SET status = '&status',
+ organisation = '&organisation',
+ function = '&function',
+ startDate = '&startDate',
+ endDate = '&endDate'
 WHERE id_expro = &id_expro;
 
             ----by YVAN NJOPMO ----

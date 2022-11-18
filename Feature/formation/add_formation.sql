@@ -4,8 +4,7 @@ VALUES(&id_formation, '&school','&fieldOfStudy','&diploma','&startDate','&endDat
 
 SELECT* 
 FROM Formation 
-WHERE id_formation=&id_formation
-AND id_user =&id_user 
+WHERE id_user =&id_user 
 AND id_exp =&id_exp
 AND id_cv =&id_cv;
 
