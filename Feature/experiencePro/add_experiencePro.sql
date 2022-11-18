@@ -4,7 +4,6 @@ VALUES (&id_expro,'&status','&organisation','&function','&startDate','&endDate',
 
 SELECT* 
 FROM Professional_Exp 
-WHERE id_expro =&id_expro
-AND id_exp=&id_exp;
+WHERE id_exp=&id_exp;
 
              ----By Yvan Njopmo---
