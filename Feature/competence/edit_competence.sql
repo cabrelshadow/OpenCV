@@ -5,4 +5,4 @@
 --
 UPDATE Competence
 SET name_competence = '&name_competence'
-WHERE id_Competence = &Competence;
+WHERE id_Competence = &id_Competence;
