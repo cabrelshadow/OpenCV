@@ -7,5 +7,5 @@ INSERT INTO users(id_user,username, password, email)VALUES(6,'nathan', 'hghnytju
 INSERT INTO users(id_user,username, password, email)VALUES(7,'maxime', 'hghnytjuty5','ygyt3@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(8,'cabrel', 'hghnytju','43@gmayuil.com');
 INSERT INTO users(id_user,username, password, email)VALUES(9,'cabrel', 'hghrf58nytju','hofoho9@gmail.com');
-INSERT INTO users(id_user,username, password, email)VALUES(10,'cabrel', 'hghngrthytju','iytuè3@gmail.com');
+INSERT INTO users(id_user,username, password, email)VALUES(10,'google', '000','iytuè3@gmail.com');
 
