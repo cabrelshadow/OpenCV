@@ -2,7 +2,7 @@ INSERT INTO users(id_user,username, password, email)VALUES(1,'cabrel', '123','si
 INSERT INTO users(id_user,username, password, email)VALUES(2,'steve', '123','fhth@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(3,'root', '123','gjhyj93@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(4,'shadow', '123','uiui93@gmail.com');
-INSERT INTO users(id_user,username, password, email)VALUES(5,'hacker', 'hghnytju755','sianou2282@gmail.com');
+INSERT INTO users(id_user,username, password, email)VALUES(5,'hacker', '123','sianou2282@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(6,'nathan', 'hghnytjugtyy','s55f@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(7,'maxime', 'hghnytjuty5','ygyt3@gmail.com');
 INSERT INTO users(id_user,username, password, email)VALUES(8,'cabrel', 'hghnytju','43@gmayuil.com');

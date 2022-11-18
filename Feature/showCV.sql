@@ -6,6 +6,11 @@ SELECT first_name,last_name,profile_name,profile_image,born_date,born_At,marital
 FROM Profil 
 WHERE id_user = (select id_user FROM users WHERE username = '&user_name' AND password = '&user_password');
 
-SELECT name_country,name_city
-FROM Country 
-WHERE id_profil=&id_profil;
+SELECT l.title , l.levels
+FROM Language l JOIN  Profil p
+ON (p.id_profil=l.id_profil)
+JOIN users u 
+ON(u.id_user=p.id_user)
+WHERE id_user =(select id_user FROM users WHERE username = '&user_name' AND password = '&user_password');
+
+
