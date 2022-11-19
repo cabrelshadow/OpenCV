@@ -81,16 +81,13 @@ ON(F.id_formation= cp.id_formation)
 WHERE F.id_user = (select id_user FROM users WHERE username = '&user_name' AND password = '&user_password');
 
 
-
-SET MARKUP HTML ON
-SPOOL ON 
-SET NULL'_'
-SET TAB OFF
-SET LINESIZE 1000
-SET NEWPAGE NONE
-SET TRIMS OFF
-SET NUHWIDTN 50
-SILENT
+SET MARKUP HTML ON SPOOL ON PREFORMAT OFF ENTMAP ON -
+HEAD "<TITLE> opencv </TITLE> -
+<STYLE type='text/css'> -
+<body style='background-color:red'> -
+</STYLE>" - 
+BODY "TEXT='green'" - 
+TABLE "WIDTH='90%' BORDER='5'"
 SPOOL CV_EXEMPLE.html
 
 
