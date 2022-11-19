@@ -13,6 +13,9 @@ PROMPT******************** create table user************************************
 PROMPT******************** insering data in table user************************************
 @objects/tables/contraints/runContraints
 
+PROMPT******************** ADD contraints unique_contrain************************************
+@CheckUnique
+
 PROMPT********************* create SEQUENCES FOR TABLE **************************************
 @sequenceTable
 PROMPT******************** insering data in table user************************************
