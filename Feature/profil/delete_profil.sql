@@ -1,2 +1,2 @@
 DELETE FROM profil
-WHERE id_profil = &id_profil;
+WHERE id_user = &id_user;

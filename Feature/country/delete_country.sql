@@ -1,2 +1,2 @@
 DELETE FROM Country
-WHERE id_country = &id_country;
+WHERE id_profil = &id_profil;
